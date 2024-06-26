@@ -2,6 +2,7 @@
 Performed an in-depth analysis of Walmart sales data to identify trends, optimize inventory management, and improve sales performance.
 ## Tools Used: 
 Power BI
+![Walmart Sales Analysis](https://github.com/VihoshiniSaravanan/Walmart_SalesAnalysis/assets/173756615/80fd0241-62c9-46b7-b6bf-99b31eaf6d0f)
 
 #### Actions Taken:
 
