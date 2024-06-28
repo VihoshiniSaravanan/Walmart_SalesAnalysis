@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+      <meta name="robots" content="noindex">
+    
+    <link rel="dns-prefetch" href="https://cdn.loom.com">
+<link rel="preconnect" href='https://cdn.loom.com' />
+<link rel="preconnect" href='https://cdn.loom.com' crossorigin="anonymous"/>
+<link rel="dns-prefetch" href="https://luna.loom.com">
+<link rel="preconnect" href="https://domain.com" />
+<link rel="preconnect" href="https://luna.loom.com" crossorigin="anonymous"/>
+<link rel="dns-prefetch" href="https://cdn.segment.com">
+<link rel="preconnect" href="https://cdn.segment.com" />
+<link rel="dns-prefetch" href='https://evs.sgmt.loom.com' />
+<link rel="dns-prefetch" href="https://accounts.google.com" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+<link rel="dns-prefetch" href='https://cdn.sprig.com'  />
+<link rel="dns-prefetch" href='https://api.sgmt.loom.com'  />    <link rel="preload" href="https://cdn.loom.com/sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-00001.jpg" as="image" fetchpriority="high" />
+    <link rel="preload"
+  href="https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Book-5f7f3d61a321e3838310.woff2"
+  crossorigin="" as="font" type="font/woff2" />
+<link rel="preload"
+  href="https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Bold-7635c1bc788a9c68bf95.woff2"
+  crossorigin="" as="font" type="font/woff2" />
+      <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Library | Loom - 21 June 2024 | Loom</title>
+<!-- Cookie banner only available on marketing site for now. -->
+<!-- Likely to be reenabled once ready to rollout onto webapp-client -->
+<!-- <script nonce="wYZDr9i4FGe9Vgk0Qaow1Ye6+3bZw5v2SMgYlWiyURSF7W4J" type="text/javascript">
+  (function () {
+    fetch('https://location.loom.com', {
+      method: 'GET',
+    })
+      .then(response => {
+        const targetCountries = [];
+        const userCountry = response.headers.get('x-loom-country');
+
+        if (targetCountries.includes(userCountry)) {
+          const head = document.getElementsByTagName('head')[0];
+          const js = document.createElement('script');
+
+          js.type = 'text/javascript';
+          js.src =
+            'https://cmp.osano.com/AzytdUSlZ32371fP0/ba69bebe-a167-497d-9119-634931398b23/osano.js';
+
+          head.append(js);
+        }
+      })
+      .catch(() => {});
+  })();
+</script>
+ -->
+
+<link rel="alternate" type="application/json+oembed" href="https://www.loom.com/v1/oembed?url=https%3A%2F%2Fwww.loom.com%2Fshare%2Fbcddda76e20a48c4b21c231edc329491&format=json">
+<link rel="alternate" type="text/xml+oembed" href="https://www.loom.com/v1/oembed?url=https%3A%2F%2Fwww.loom.com%2Fshare%2Fbcddda76e20a48c4b21c231edc329491&format=xml">
+
+
+<meta name="slack-app-id" content="A9G1TH4S2">
+
+<!-- SEO -->
+<meta name="application-name" content="Loom" />
+  <meta name="description" content="Use Loom to record quick videos of your screen and cam. Explain anything clearly and easily – and skip the meeting. An essential tool for hybrid workplaces." />
+
+  <!-- open graph and twitter tags -->
+    <meta property="og:site_name" content="Loom">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.loom.com">
+  <meta property="og:title" content="Library | Loom - 21 June 2024">
+      <meta property="og:description" content="Use Loom to record quick videos of your screen and cam. Explain anything clearly and easily – and skip the meeting. An essential tool for hybrid workplaces." />
+    <meta property="og:image" content="https://cdn.loom.com/assets/img/og/loom-banner.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="600">
+  <meta name="twitter:card" content="summary_large_image" />
+
+
+
+
+<!-- Web App Icons -->
+<meta name="application-name" content="Loom">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#ffffff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Loom">
+<meta name="msapplication-TileColor" content="#b91d47">
+<meta name="msapplication-TileImage" content="https://cdn.loom.com/assets/favicons-loom/mstile-150x150.png">
+
+<link rel="icon" href="https://cdn.loom.com/assets/favicons-loom/favicon.ico" sizes="any">
+<link rel="icon" href="https://cdn.loom.com/assets/favicons-loom/favicon.svg" type="image/svg+xml">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.loom.com/assets/favicons-loom/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://cdn.loom.com/assets/favicons-loom/android-chrome-192x192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.loom.com/assets/favicons-loom/apple-touch-icon-180x180.png">
+<link rel="mask-icon" color="#625df5" href="https://cdn.loom.com/assets/favicons-loom/safari-pinned-tab.svg">
+
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/475-0442cf643bedba3d6b94.css" />
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/6721-67f857093fe6f693c1c8.css" />
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/share-video-fresh-6fec990064d8fd367997.css" />
+
+
+<script nonce="wYZDr9i4FGe9Vgk0Qaow1Ye6+3bZw5v2SMgYlWiyURSF7W4J">
+  window._LOOM_ = "%7O%22OVYYVAT_ERPNCGPUN_FVGR_XRL%22%3N%226Yq-a7bHNNNNNWKXybyTXC7sCMus-WzaKnlg9CA5%22%2P%22PUEBZR_RKGRAFVBA_VQ%22%3N%22yvrpoqqzxvvvuarqbozyzvyyubqwxqzo%22%2P%22PYVRAG_YBT_YRIRY%22%3N%22sngny%2Preebe%2Pjnea%2Pvasb%22%2P%22PYBHQSEBAG_HEV%22%3N%22pqa.ybbz.pbz%22%2P%22NIFREIRE_PYBHQSEBAG_HEV%22%3N%22yhan.ybbz.pbz%22%2P%22RYRIVB_NPPBHAG_VQ%22%3N%225p7qp041087r9%22%2P%22TBBTYR_NCV_PYVRAG_VQ%22%3N%22443240113960-6zw529e3e24tcc4p9h57a9aqet01v911.nccf.tbbtyrhfrepbagrag.pbz%22%2P%22YBBZ_QRFXGBC_CEBGBPBY%22%3N%22ybbzQrfxgbc%3N%2S%2S%22%2P%22ZHK_RAI_XRL%22%3N%229ntt7cyq771c850zs45zfatc3%22%2P%22CHFU_FREIRE_CHOYVP_XRL%22%3N%22OSMAlOrBig4yrVK8OhRu7u2-7lFWCL2bSfWdV5HyfTxa57ZKc924pqoufgdF69Uz-IYo1wXEEm4LnRu7qTeFKFZ%22%2P%22FGEVCR_CHOYVP_XRL%22%3N%22cx_yvir_ZT87GpsZRyPHEEBsexfSFZ8k%22%2P%22QNGNQBT_EHZ_NCCYVPNGVBA_VQ%22%3N%227ns92855-r997-4q9o-nn41-839r1p64r6s3%22%2P%22QNGNQBT_EHZ_PYVRAG_GBXRA%22%3N%22choo1955571qp736r541o72313p6942242s%22%2P%22QNGNQBT_EHZ_RANOYR%22%3N%22gehr%22%2P%22QNGNQBT_EHZ_FREIVPR%22%3N%22ybbz-cebq%22%2P%22QNGNQBT_EHZ_FRFFVBA_FNZCYR_ENGR%22%3N%2215%22%2P%22QNGNQBT_EHZ_FRFFVBA_ERCYNL_FNZCYR_ENGR%22%3N%2215%22%2P%22QNGNQBT_YBT_PYVRAG_GBXRA%22%3N%22cho6n5r653719oonqp7o8q28o628o09oq41%22%2P%22QNGNQBT_YBT_RANOYR%22%3N%22gehr%22%2P%22QNGNQBT_YBT_FNZCYR_ENGR%22%3N%2210%22%2P%22QNGNQBT_YBT_FREIVPR%22%3N%22jroncc%22%2P%22YBBZ_FQX_NCV_XRL%22%3N%22677no500-qo70-4087-91ns-6rsqo06sss68%22%2P%22PNAAL_VB_NCC_VQ%22%3N%2258n6799q8q61o9968qnq922n%22%2P%22PBURER_PYVRAG_XRL%22%3N%22J-YswQFDvvMv-ud7T761GKB1%22%2P%22CNPXNTRF_PYBHQSEBAG_HEV%22%3N%22cnpxntrf.ybbz.pbz%22%2P%22FRAGEL_ERCYNLF_BA_REEBE_FNZCYR_ENGR%22%3N%220.001%22%2P%22SO_NCC_VQ%22%3N%221591221991190878%22%2P%22NABA_PBBXVR_QBZNVA%22%3N%22ybbz.pbz%22%2P%22YBBZ_ONER_HEV%22%3N%22ybbz.pbz%22%2P%22YBBZ_HEV%22%3N%22jjj.ybbz.pbz%22%2P%22ABQR_RAI%22%3N%22cebqhpgvba%22%2P%22YBBZ_IREFVBA%22%3N%22rq55p18%22%2P%22YBBZ_ERPBEQ_JF_HEV%22%3N%22erpbeq.ybbz.pbz%22%2P%22NGYNFFVNA_BVQP_VAVGVNGVBA_EBHGR%22%3N%22uggcf%3N%2S%2Svq.ngynffvna.pbz%22%2P%22NQZVA_UHO_HEV%22%3N%22nqzva.ngynffvna.pbz%22%7Q";
+
+
+
+  window.__APOLLO_STATE__ = {"ROOT_QUERY":{"__typename":"Query","getCurrentUser":{"__typename":"UserNotAuthorizedError"},"getVideo({\"id\":\"bcddda76e20a48c4b21c231edc329491\"})":{"__ref":"RegularUserVideo:bcddda76e20a48c4b21c231edc329491"},"getFeatureFlags":{"__typename":"FeatureFlags","featureFlags":{"experiment-shaka-slow-initial-load":{"isSlowMountAfterMs":5000,"slowBandwidthEstimate":500000,"variantName":"default"},"experiment-shaka-abr-config":{"variantName":"default"},"avserver-segment-splitting":true,"avserver-v5-segment-splitting":true,"upgrade-and-migrate-shaka-upstream":true,"experiment-disable-apollo-batching":true}}},"Organization:30992528":{"__typename":"Organization","name":"Vihoshini's Workspace","brandLogoPath":null,"brandShowBranding":true,"brandPrimaryColor":null,"createdAt":"2024-06-10T18:23:17.701Z","description":null,"hidden":false,"id":"30992528","organization_properties":{"selfServeInvite":false,"lastPlanCheckedOut":"business"},"status":null,"tags":{},"trial_ended":false,"trial_ends_at":null,"trial_type":null,"type":"starter_free","updatedAt":"2024-06-24T18:24:37.295Z","workspaceLogoPath":null},"RegularUser:30547044":{"__typename":"RegularUser","id":"30547044","first_name":"Vihoshini","display_name":"Vihoshini Saravanan","avatars":[{"__typename":"Avatar","name":"406055b9efb845459b759e18dcf8146c","large":"avatars/30547044_406055b9efb845459b759e18dcf8146c_1024.jpg","thumb":"avatars/30547044_406055b9efb845459b759e18dcf8146c_192.jpg","iosLarge":"avatars/30547044_406055b9efb845459b759e18dcf8146c_1024.jpg","iosThumb":"avatars/30547044_406055b9efb845459b759e18dcf8146c_192.jpg","isAtlassianMastered":null}],"status":"verified","profile":null},"RegularUserVideo:bcddda76e20a48c4b21c231edc329491":{"__typename":"RegularUserVideo","id":"bcddda76e20a48c4b21c231edc329491","defaultThumbnails":{"__typename":"VideoDefaultThumbnailsSources","default":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-00001.gif","static":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-00001.jpg"},"signedThumbnails":{"__typename":"VideoThumbnailsSources","animatedPreview":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-00001.mp4","default":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-00001.jpg","default4X3":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-4x3.jpg","defaultPlay":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-with-play.jpg","ogFull":null,"full":null,"fullPlay":null,"defaultGif":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-00001.gif","defaultGifPlay":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-with-play.gif"},"nullableRawCdnUrl({\"acceptableMimes\":[\"DASH\"]})":{"__typename":"CloudfrontSignedUrlPayload","url":"https://luna.loom.com/id/bcddda76e20a48c4b21c231edc329491/rev/6a306b670a20bacee3d5c2ca9a3c3009e1eec45f053d0ad96b6908a6ce61892c7/resource/dash/playlistmultibitrate.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkL2JjZGRkYTc2ZTIwYTQ4YzRiMjFjMjMxZWRjMzI5NDkxL3Jldi82YTMwNmI2NzBhMjBiYWNlZTNkNWMyY2E5YTNjMzAwOWUxZWVjNDVmMDUzZDBhZDk2YjY5MDhhNmNlNjE4OTJjNy9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE5NjkzMTYxfX19XX0_&Signature=MaxIIXgSannrdSfbK3gkBJE4mqNsvYe9vcnqMiqjpDj8y4lhVrZWp3h8PTpQxCJSy5KsI4jYudxhIq9QyAtT11Ez2NOpKZFZKUOId1RyUp9YIjUg%7E-O9d4fCfcFaKIC8a2Z45BI8qGRm2psBFN18gBbuLcEqLkIAe%7ENq1TgYX50mzn1kOFGjoJ31bMVmDjGx6Sw-hXoHyUCEp3qnN23wHCf6VOagWTqX0XtH0wTGt5%7Eg7CIGYqNSYDLIZO1IoRBfdPwWCkn9P5w8I65MoA3FnF-A-dalT14SGI1b6ORVvnHiAuywpNST2cSMsemos6d89urbAaXV3kA-PhakRbojWQ__&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ","credentials":{"__typename":"CloudfrontSignedCredentialsPayload","Policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkL2JjZGRkYTc2ZTIwYTQ4YzRiMjFjMjMxZWRjMzI5NDkxL3Jldi82YTMwNmI2NzBhMjBiYWNlZTNkNWMyY2E5YTNjMzAwOWUxZWVjNDVmMDUzZDBhZDk2YjY5MDhhNmNlNjE4OTJjNy9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE5NjkzMTYxfX19XX0_","Signature":"MaxIIXgSannrdSfbK3gkBJE4mqNsvYe9vcnqMiqjpDj8y4lhVrZWp3h8PTpQxCJSy5KsI4jYudxhIq9QyAtT11Ez2NOpKZFZKUOId1RyUp9YIjUg~-O9d4fCfcFaKIC8a2Z45BI8qGRm2psBFN18gBbuLcEqLkIAe~Nq1TgYX50mzn1kOFGjoJ31bMVmDjGx6Sw-hXoHyUCEp3qnN23wHCf6VOagWTqX0XtH0wTGt5~g7CIGYqNSYDLIZO1IoRBfdPwWCkn9P5w8I65MoA3FnF-A-dalT14SGI1b6ORVvnHiAuywpNST2cSMsemos6d89urbAaXV3kA-PhakRbojWQ__","KeyPairId":"APKAJQIC5BGSW7XXK7FQ"}},"nullableRawCdnUrl({\"acceptableMimes\":[\"M3U8\"]})":{"__typename":"CloudfrontSignedUrlPayload","url":"https://luna.loom.com/id/bcddda76e20a48c4b21c231edc329491/rev/6a306b670a20bacee3d5c2ca9a3c3009e1eec45f053d0ad96b6908a6ce61892c7/resource/hls/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkL2JjZGRkYTc2ZTIwYTQ4YzRiMjFjMjMxZWRjMzI5NDkxL3Jldi82YTMwNmI2NzBhMjBiYWNlZTNkNWMyY2E5YTNjMzAwOWUxZWVjNDVmMDUzZDBhZDk2YjY5MDhhNmNlNjE4OTJjNy9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE5NjkzMTYxfX19XX0_&Signature=MaxIIXgSannrdSfbK3gkBJE4mqNsvYe9vcnqMiqjpDj8y4lhVrZWp3h8PTpQxCJSy5KsI4jYudxhIq9QyAtT11Ez2NOpKZFZKUOId1RyUp9YIjUg%7E-O9d4fCfcFaKIC8a2Z45BI8qGRm2psBFN18gBbuLcEqLkIAe%7ENq1TgYX50mzn1kOFGjoJ31bMVmDjGx6Sw-hXoHyUCEp3qnN23wHCf6VOagWTqX0XtH0wTGt5%7Eg7CIGYqNSYDLIZO1IoRBfdPwWCkn9P5w8I65MoA3FnF-A-dalT14SGI1b6ORVvnHiAuywpNST2cSMsemos6d89urbAaXV3kA-PhakRbojWQ__&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ","credentials":{"__typename":"CloudfrontSignedCredentialsPayload","Policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkL2JjZGRkYTc2ZTIwYTQ4YzRiMjFjMjMxZWRjMzI5NDkxL3Jldi82YTMwNmI2NzBhMjBiYWNlZTNkNWMyY2E5YTNjMzAwOWUxZWVjNDVmMDUzZDBhZDk2YjY5MDhhNmNlNjE4OTJjNy9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE5NjkzMTYxfX19XX0_","Signature":"MaxIIXgSannrdSfbK3gkBJE4mqNsvYe9vcnqMiqjpDj8y4lhVrZWp3h8PTpQxCJSy5KsI4jYudxhIq9QyAtT11Ez2NOpKZFZKUOId1RyUp9YIjUg~-O9d4fCfcFaKIC8a2Z45BI8qGRm2psBFN18gBbuLcEqLkIAe~Nq1TgYX50mzn1kOFGjoJ31bMVmDjGx6Sw-hXoHyUCEp3qnN23wHCf6VOagWTqX0XtH0wTGt5~g7CIGYqNSYDLIZO1IoRBfdPwWCkn9P5w8I65MoA3FnF-A-dalT14SGI1b6ORVvnHiAuywpNST2cSMsemos6d89urbAaXV3kA-PhakRbojWQ__","KeyPairId":"APKAJQIC5BGSW7XXK7FQ"}},"active_video_transcript_id":"312251257","allow_search_engine_indexing":false,"archived":false,"chapters":null,"comments_enabled":true,"comments_email_enabled":true,"complete":true,"createdAt":"2024-06-22T00:01:37.019Z","cta":{"__typename":"CTA","enabled":false,"url":null,"text":null,"mods":null,"is_auto":false,"approved_at":null},"currentUserCanEdit":false,"current_user_is_owner":false,"description":null,"download_enabled":true,"email_gate_video_type":"NONE","folder_id":"66eb7ca354214408a7bced70f6f7fb0e","folder":null,"isCommunityLoom":false,"isOnWatchLaterList":false,"isPersonalized":false,"personalizationType":null,"is_protected":false,"isTeamShared":false,"isWeavedVideo":false,"loom_branded_player":true,"name":"Library | Loom - 21 June 2024","needs_password":false,"organization_id":30992528,"organization":{"__ref":"Organization:30992528"},"owner_id":30547044,"owner":{"__ref":"RegularUser:30547044"},"privacy":"public","processing_information":{"__typename":"ProcessingInformation","instant_editing_enabled":true,"noise_cancellation_type":false,"replacements":null,"trim_id":null,"trim_ranges":[],"videoUploadMessage":null,"videoUploadValid":null,"trim_progress":null,"split_segment_ttl":"2024-09-19T00:02:17.632Z"},"record_reply_enabled":true,"s3_id":"bcddda76e20a48c4b21c231edc329491","salesforce_engagement_tracking":false,"show_analytics_to_viewer":true,"show_transcript_to_viewer":true,"spaces":[],"suggested_playback_rate":"none","use_emojis":true,"use_gif":true,"video_properties":{"__typename":"VideoProperties","avgBitRate":null,"client":null,"camera_enabled":null,"client_version":null,"countdown":null,"duration":36,"durationMs":35502,"format":"dash","height":1020,"ingestion_type":null,"liveRewindTrimmedSections":null,"mediaMetadataRotation":null,"microphone_enabled":false,"os":null,"os_version":null,"recordingClient":"extension","recording_type":"screen_cam","recording_version":"v5","screen_type":"desktop","sdkPartnerId":null,"tab_audio":null,"trim_duration":null,"width":1920},"playable_duration":35.502,"signedDefaultThumbnails":{"__typename":"VideoDefaultThumbnailsSources","default":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-00001.gif","static":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-00001.jpg"},"source_duration":35.502,"thumbnails":{"__typename":"VideoThumbnailsSources","default":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-00001.jpg","default4X3":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-4x3.jpg","defaultPlay":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-with-play.jpg","ogFull":null,"full":null,"fullPlay":null,"defaultGif":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-00001.gif","defaultGifPlay":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-with-play.gif","animatedPreview":"sessions/thumbnails/bcddda76e20a48c4b21c231edc329491-00001.mp4"},"viewerNeedsPermission":false,"viewers_can_weave":true,"views":{"__typename":"RegularUserVideoViewCounts","total":0,"distinct":0,"named":[]},"visibility":"owner","waveform_generation":null,"white_label_player":false}};
+
+</script>
+
+    
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    
+    <script nonce="wYZDr9i4FGe9Vgk0Qaow1Ye6+3bZw5v2SMgYlWiyURSF7W4J" type="text/javascript">
+  window.rightPanelOn = true;
+</script>
+    <style>
+      .delayed-loading-error {
+        width: 100%;
+        padding-top: 100px;
+        font-size: 20px;
+        text-align: center;
+        animation: reveal-slow-load 8s forwards;
+        font-family: circular, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif;
+      }
+
+      .delayed-loading-error h1 {
+        display: block;
+        font-size: 32px;
+        line-height: 38.4px;
+        font-weight: 700;
+      }
+
+      .delayed-loading-error p {
+        font-size: 18px;
+      }
+
+      .delayed-loading-error a {
+        text-decoration: none;
+        color: hsla(242, 88.4%, 66.3%, 1);
+        box-shadow: 0 1px 0 currentColor;
+        padding: 0 0 1px 0;
+        cursor: pointer;
+        font-size: 14px
+      }
+
+      .delayed-loading-error div {
+        padding-bottom: 16px;
+      }
+
+      @keyframes reveal-slow-load {
+        0% {
+          opacity: 0;
+        }
+
+        99.99% {
+          opacity: 0;
+        }
+
+        100% {
+          opacity: 1;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main id="container">
+      <div class="delayed-loading-error" aria-hidden="true">
+        <h1 font-weight="bold">Loom is running a bit slower than usual.</h1>
+        <p>Contact support if this issue persists.</p>
+        <div><a href="/" target="_blank" rel="noopener noreferrer">Go to Homepage</a></div>
+        <div><a href="https://www.loomstatus.com" target="_blank" rel="noopener noreferrer">Check System Status</a></div>
+      </div>
+    </main>
+    <script nonce="wYZDr9i4FGe9Vgk0Qaow1Ye6+3bZw5v2SMgYlWiyURSF7W4J" type="text/javascript">
+    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on","addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware"];analytics.factory=function(e){return function(){var t=Array.prototype.slice.call(arguments);t.unshift(e);analytics.push(t);return analytics}};for(var e=0;e<analytics.methods.length;e++){var key=analytics.methods[e];analytics[key]=analytics.factory(key)}analytics.load=function(key,e){var t=document.createElement("script");t.type="text/javascript";t.async=!0;t.src="https://evs.sgmt.loom.com/yhPeelcEJD/eejxbDiFfK.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.13.1";
+  analytics.load("rggRFsCK29LOKVGyTLpt9xoXVhNNXaP6", { "integrations": {"Elevio":false,"Google Analytics":true,"FullStory":false} });
+
+  
+
+  }}();
+</script>
+    
+  <script src="https://cdn.loom.com/assets/js/0runtime-e078aec434fa437de950.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/react-vendor-c474dbfb92d4685475fa.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/3517-76933a573a5a0442574b.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/3797-767914e024f58069f795.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/4601-67db7fe87dcf5b902ba9.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/5779-0b159bfc80d6b98a25cc.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/5481-d21c53ad1d4200986c58.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/7191-9715cc5337c612b44dd2.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/8558-fdb13b41effa5e3ea3d8.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/8348-8f3038e94db45fbe0373.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/8326-29159f5c8825a8624bc0.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/6441-b24ec428cbcf2db28400.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/1904-69f1bb500f481dc97e50.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/4097-df3d2d8a3be459efe8dc.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/730-edf0c077093c493a81d9.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/5525-90b3bdc32818260e1ad9.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/7273-6245f8836251c7803331.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/4799-901d03fd6d635944a5c1.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/8189-a8ddb5e98d8678ce64b2.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/8044-28d721c645c0c5acdd7a.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/2420-557be1def7a1f7fb7668.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/4393-2e07a537bc77b81fa9c1.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/4029-9c5555ac068f3b51cde5.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/7718-48ce291fe6f32c177a83.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/7781-354856275af0a6b1d36c.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/5382-a57030847b3e5d1e6569.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/475-442a33216278234d913a.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/1464-7791f3eeb06ae5ad9a52.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/2922-84cb6c034bb47a448eb3.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/9360-89e92f106393209819a6.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/1138-c8c425c2d719e623a99b.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/437-df3c1b3d4ddc9f56fe2e.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/6721-be0b990edffad63d9bbf.js"></script>
+
+  <script src="https://cdn.loom.com/assets/js/share-video-fresh-245b175f9195dc0042da.js"></script>
+
+  </body>
+</html>
